@@ -1,0 +1,56 @@
+2026-02-20 17:23:45 [main] INFO  Ejercicio.Main - El sistema de logging se ha iniciado correctamente.
+2026-02-20 17:23:45 [main] DEBUG Ejercicio.Main - Esto es un mensaje de depuración (DEBUG).
+2026-02-20 17:23:45 [main] WARN  Ejercicio.Main - Esto es una advertencia (WARN).
+2026-02-20 17:23:45 [main] ERROR Ejercicio.Main - Esto es un error simulado (ERROR).
+2026-02-20 17:24:36 [main] INFO  Ejercicio.Main - El sistema de logging se ha iniciado correctamente.
+2026-02-20 17:24:36 [main] DEBUG Ejercicio.Main - Esto es un mensaje de depuración (DEBUG).
+2026-02-20 17:24:36 [main] WARN  Ejercicio.Main - Esto es una advertencia (WARN).
+2026-02-20 17:24:36 [main] ERROR Ejercicio.Main - Esto es un error simulado (ERROR).
+2026-02-20 17:24:45 [main] INFO  Ejercicio.Main - El sistema de logging se ha iniciado correctamente.
+2026-02-20 17:24:45 [main] DEBUG Ejercicio.Main - Esto es un mensaje de depuración (DEBUG).
+2026-02-20 17:24:45 [main] WARN  Ejercicio.Main - Esto es una advertencia (WARN).
+2026-02-20 17:24:45 [main] ERROR Ejercicio.Main - Esto es un error simulado (ERROR).
+2026-02-20 17:30:13 [main] INFO  Ejercicio.Main - El sistema de logging se ha iniciado correctamente.
+2026-02-20 17:30:13 [main] DEBUG Ejercicio.Main - Esto es un mensaje de depuración (DEBUG).
+2026-02-20 17:30:13 [main] WARN  Ejercicio.Main - Esto es una advertencia (WARN).
+2026-02-20 17:30:13 [main] ERROR Ejercicio.Main - Esto es un error simulado (ERROR).
+2026-02-20 17:33:05 [main] INFO  Ejercicio3.Main - Iniciando aplicación con sistema de rotación...
+2026-02-20 17:33:05 [main] DEBUG Ejercicio3.Main - Procesando lote de datos número: 1
+2026-02-20 17:33:05 [main] ERROR Ejercicio3.Main - Error crítico procesando el lote 1: Datos corruptos simulados.
+2026-02-20 17:33:05 [main] DEBUG Ejercicio3.Main - Procesando lote de datos número: 2
+2026-02-20 17:33:05 [main] INFO  Ejercicio3.Main - Lote 2 procesado con éxito.
+2026-02-20 17:33:05 [main] DEBUG Ejercicio3.Main - Procesando lote de datos número: 3
+2026-02-20 17:33:05 [main] ERROR Ejercicio3.Main - Error crítico procesando el lote 3: Datos corruptos simulados.
+2026-02-20 17:33:05 [main] DEBUG Ejercicio3.Main - Procesando lote de datos número: 4
+2026-02-20 17:33:05 [main] INFO  Ejercicio3.Main - Lote 4 procesado con éxito.
+2026-02-20 17:33:05 [main] DEBUG Ejercicio3.Main - Procesando lote de datos número: 5
+2026-02-20 17:33:05 [main] ERROR Ejercicio3.Main - Error crítico procesando el lote 5: Datos corruptos simulados.
+2026-02-20 17:33:05 [main] INFO  Ejercicio3.Main - Simulación finalizada. Revisa la carpeta /logs en la raíz de tu proyecto.
+2026-02-20 17:34:47 [main] INFO  Ejercicio3.Main - Iniciando aplicación con sistema de rotación...
+2026-02-20 17:34:47 [main] DEBUG Ejercicio3.Main - Procesando lote de datos número: 1
+2026-02-20 17:34:47 [main] ERROR Ejercicio3.Main - Error crítico procesando el lote 1: Datos corruptos simulados.
+2026-02-20 17:34:47 [main] DEBUG Ejercicio3.Main - Procesando lote de datos número: 2
+2026-02-20 17:34:47 [main] INFO  Ejercicio3.Main - Lote 2 procesado con éxito.
+2026-02-20 17:34:47 [main] DEBUG Ejercicio3.Main - Procesando lote de datos número: 3
+2026-02-20 17:34:47 [main] ERROR Ejercicio3.Main - Error crítico procesando el lote 3: Datos corruptos simulados.
+2026-02-20 17:34:47 [main] DEBUG Ejercicio3.Main - Procesando lote de datos número: 4
+2026-02-20 17:34:47 [main] INFO  Ejercicio3.Main - Lote 4 procesado con éxito.
+2026-02-20 17:34:47 [main] DEBUG Ejercicio3.Main - Procesando lote de datos número: 5
+2026-02-20 17:34:47 [main] ERROR Ejercicio3.Main - Error crítico procesando el lote 5: Datos corruptos simulados.
+2026-02-20 17:34:47 [main] INFO  Ejercicio3.Main - Simulación finalizada. Revisa la carpeta /logs en la raíz de tu proyecto.
+2026-02-20 17:41:25 [main] INFO  Ejercicio4.ServicioPedidos - Iniciando validación del pedido.
+2026-02-20 17:41:26 [main] INFO  Ejercicio4.ServicioPedidos - Verificando stock en almacén...
+2026-02-20 17:41:26 [main] INFO  Ejercicio4.ServicioPedidos - Pago autorizado exitosamente.
+2026-02-20 17:41:26 [main] INFO  Ejercicio4.ServicioPedidos - Contexto MDC limpio. Fin del proceso.
+2026-02-20 17:41:26 [main] INFO  Ejercicio4.ServicioPedidos - Iniciando validación del pedido.
+2026-02-20 17:41:27 [main] INFO  Ejercicio4.ServicioPedidos - Verificando stock en almacén...
+2026-02-20 17:41:27 [main] INFO  Ejercicio4.ServicioPedidos - Pago autorizado exitosamente.
+2026-02-20 17:41:27 [main] INFO  Ejercicio4.ServicioPedidos - Contexto MDC limpio. Fin del proceso.
+2026-02-20 17:41:40 [main] INFO  Ejercicio4.ServicioPedidos - Iniciando validación del pedido.
+2026-02-20 17:41:40 [main] INFO  Ejercicio4.ServicioPedidos - Verificando stock en almacén...
+2026-02-20 17:41:41 [main] INFO  Ejercicio4.ServicioPedidos - Pago autorizado exitosamente.
+2026-02-20 17:41:41 [main] INFO  Ejercicio4.ServicioPedidos - Contexto MDC limpio. Fin del proceso.
+2026-02-20 17:41:41 [main] INFO  Ejercicio4.ServicioPedidos - Iniciando validación del pedido.
+2026-02-20 17:41:41 [main] INFO  Ejercicio4.ServicioPedidos - Verificando stock en almacén...
+2026-02-20 17:41:42 [main] INFO  Ejercicio4.ServicioPedidos - Pago autorizado exitosamente.
+2026-02-20 17:41:42 [main] INFO  Ejercicio4.ServicioPedidos - Contexto MDC limpio. Fin del proceso.

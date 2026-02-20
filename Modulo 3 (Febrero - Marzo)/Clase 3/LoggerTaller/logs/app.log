@@ -1,0 +1,22 @@
+2026-02-20 15:57:44 DEBUG Calculadora - Sumando: 10.0 + 5.0
+2026-02-20 15:57:44 INFO  Calculadora - Suma realizada: 10.0 + 5.0 = 15.0
+2026-02-20 15:57:44 DEBUG Calculadora - Restando: 10.0 - 3.0
+2026-02-20 15:57:44 INFO  Calculadora - Resta realizada: 10.0 - 3.0 = 7.0
+2026-02-20 15:57:44 DEBUG Calculadora - Multiplicando: 4.0 * 7.0
+2026-02-20 15:57:44 INFO  Calculadora - Multiplicación realizada: 4.0 * 7.0 = 28.0
+2026-02-20 15:57:44 DEBUG Calculadora - Dividiendo: 10.0 / 2.0
+2026-02-20 15:57:44 INFO  Calculadora - División realizada: 10.0 / 2.0 = 5.0
+2026-02-20 15:57:44 DEBUG Calculadora - Dividiendo: 10.0 / 0.0
+2026-02-20 15:57:44 ERROR Calculadora - Intento de división por cero: 10.0 / 0.0
+2026-02-20 15:57:44 WARN  Main - Operación cancelada: No se puede dividir por cero
+2026-02-20 16:00:54 DEBUG Calculadora - Sumando: 10.0 + 5.0
+2026-02-20 16:00:54 INFO  Calculadora - Suma realizada: 10.0 + 5.0 = 15.0
+2026-02-20 16:00:54 DEBUG Calculadora - Restando: 10.0 - 3.0
+2026-02-20 16:00:54 INFO  Calculadora - Resta realizada: 10.0 - 3.0 = 7.0
+2026-02-20 16:00:54 DEBUG Calculadora - Multiplicando: 4.0 * 7.0
+2026-02-20 16:00:54 INFO  Calculadora - Multiplicación realizada: 4.0 * 7.0 = 28.0
+2026-02-20 16:00:54 DEBUG Calculadora - Dividiendo: 10.0 / 2.0
+2026-02-20 16:00:54 INFO  Calculadora - División realizada: 10.0 / 2.0 = 5.0
+2026-02-20 16:00:54 DEBUG Calculadora - Dividiendo: 10.0 / 0.0
+2026-02-20 16:00:54 ERROR Calculadora - Intento de división por cero: 10.0 / 0.0
+2026-02-20 16:00:54 WARN  Main - Operación cancelada: No se puede dividir por cero
