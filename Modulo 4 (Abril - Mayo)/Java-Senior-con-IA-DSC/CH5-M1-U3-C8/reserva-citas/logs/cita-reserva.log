@@ -1,0 +1,2 @@
+2026-02-12 21:47:29.498 [main] INFO  org.example.service.CitaService - Cita registrada con exito
+2026-02-12 21:47:29.509 [main] INFO  org.example.service.CitaService - Cita getById 1

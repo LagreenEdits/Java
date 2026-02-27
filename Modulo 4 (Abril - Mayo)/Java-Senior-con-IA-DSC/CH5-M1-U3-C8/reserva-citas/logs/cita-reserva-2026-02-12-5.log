@@ -1,0 +1,10 @@
+2026-02-12 21:43:00.157 [main] INFO  org.example.service.CitaService - Cita registrada con exito
+2026-02-12 21:43:00.166 [main] INFO  org.example.service.CitaService - Cita getById 1
+2026-02-12 21:43:19.121 [main] INFO  org.example.service.CitaService - Cita registrada 1 JORGE 132456789 2026-02-13T10:00:19.102862100
+2026-02-12 21:43:19.130 [main] INFO  org.example.service.CitaService - Cita registrada con exito
+2026-02-12 21:43:19.133 [main] INFO  org.example.service.CitaService - Cita getById 1
+2026-02-12 21:43:30.125 [main] INFO  org.example.service.CitaService - Cita registrada 1 JORGE 132456789 2026-02-13T10:00:30.105358900
+2026-02-12 21:43:30.132 [main] INFO  org.example.service.CitaService - Cita registrada con exito
+2026-02-12 21:43:30.138 [main] INFO  org.example.service.CitaService - Cita getById 1
+2026-02-12 21:44:29.468 [main] INFO  org.example.service.CitaService - Cita registrada 1 JORGE 132456789 2026-02-13T10:00:29.452456200
+2026-02-12 21:44:29.473 [main] INFO  org.example.service.CitaService - Cita registrada con exito

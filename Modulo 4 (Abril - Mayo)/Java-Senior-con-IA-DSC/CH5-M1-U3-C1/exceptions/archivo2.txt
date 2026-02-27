@@ -1,0 +1,3 @@
+Hola programadores!
+De devsenior
+Esto es un ejemplo de escritura de archivos

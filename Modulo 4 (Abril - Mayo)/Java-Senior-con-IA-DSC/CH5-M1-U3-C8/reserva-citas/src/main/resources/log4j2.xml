@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+
+    <Properties>
+        <Property name="LOG_PATTERN">
+            %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n
+        </Property>
+    </Properties>
+
+    <Appenders>
+        <Console name="Console">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+        </Console>
+
+        <RollingFile name="CitaFile"
+                     fileName="logs/cita-reserva.log"
+                     filePattern="logs/cita-reserva-%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <SizeBasedTriggeringPolicy size="1KB"/>
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="ValidacionFile"
+                     fileName="logs/validacion.log"
+                     filePattern="logs/validacion-%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <SizeBasedTriggeringPolicy size="1MB"/>
+            </Policies>
+        </RollingFile>
+    </Appenders>
+
+    <!--  TRACE < DEBUG < INFO < WARN < ERROR < FATAL -->
+
+    <Loggers>
+        <Logger name="org.example.service.CitaService" level="DEBUG" additivity="false">
+            <AppenderRef ref="CitaFile"/>
+        </Logger>
+        <Logger name="org.example.service.ValidacionService" level="DEBUG" additivity="false">
+            <AppenderRef ref="ValidacionFile"/>
+        </Logger>
+        <Root level="TRACE">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>

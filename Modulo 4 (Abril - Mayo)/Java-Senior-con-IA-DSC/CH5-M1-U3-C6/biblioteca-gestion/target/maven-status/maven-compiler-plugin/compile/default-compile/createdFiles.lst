@@ -1,0 +1,10 @@
+com\biblioteca\model\Libro.class
+com\biblioteca\exception\LibroNoEncontradoException.class
+com\biblioteca\exception\LimitePrestamosException.class
+com\biblioteca\model\Usuario.class
+com\biblioteca\exception\PrestamoNoEncontradoException.class
+com\biblioteca\exception\LibroNoDisponibleException.class
+com\biblioteca\model\Prestamo.class
+com\biblioteca\service\LibroService.class
+com\biblioteca\service\ValidacionService.class
+com\biblioteca\service\PrestamoService.class

@@ -1,0 +1,16 @@
+2026-02-25 01:15:49.230 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.
+2026-02-25 01:15:49.245 [main] ERROR org.example.service.ValidarTareaService - Error de validación: La descripción está vacía o es nula.
+2026-02-25 01:15:49.249 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.
+2026-02-25 01:15:49.258 [main] ERROR org.example.service.ValidarTareaService - Error de validación: La descripción está vacía o es nula.
+2026-02-25 01:16:19.244 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.
+2026-02-25 01:16:19.262 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.
+2026-02-25 01:19:54.269 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.
+2026-02-25 01:19:54.283 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.
+2026-02-25 01:42:17.687 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.
+2026-02-25 01:42:17.701 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.
+2026-02-25 01:42:23.071 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.
+2026-02-25 01:42:23.086 [main] ERROR org.example.service.ValidarTareaService - Error de validación: La descripción está vacía o es nula.
+2026-02-25 01:42:23.090 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.
+2026-02-25 01:42:23.101 [main] ERROR org.example.service.ValidarTareaService - Error de validación: La descripción está vacía o es nula.
+2026-02-25 01:43:21.106 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.
+2026-02-25 01:43:21.127 [main] ERROR org.example.service.ValidarTareaService - Error de validación: El nombre está vacío o es nulo.

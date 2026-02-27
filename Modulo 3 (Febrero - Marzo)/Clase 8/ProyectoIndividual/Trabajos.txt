@@ -1,0 +1,4 @@
+=== REPORTE DE TAREAS ===
+Tarea{id=1, nombre='Matematicas', descripcion='Taller final', estadoCompletado=false}
+Tarea{id=2, nombre='Fisica', descripcion='Examen de leyes de Newton', estadoCompletado=true}
+Tarea{id=3, nombre='Quimica', descripcion='Trabajo grupal', estadoCompletado=false}
