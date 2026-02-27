@@ -1,0 +1,84 @@
+2026-02-12 20:57:36.589 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 20:57:36.590 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:23:32.166 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:23:32.167 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:23:45.825 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:23:45.825 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:24:36.440 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:24:36.441 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:24:58.869 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:24:59.935 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:27:20.847 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:27:21.191 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:28:12.765 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:28:12.959 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:29:38.530 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:29:38.532 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:30:34.196 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:30:34.196 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:30:39.200 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:30:39.202 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:30:39.249 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:30:39.249 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:31:25.318 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:31:25.319 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:32:22.949 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:32:22.949 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:33:08.136 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:33:08.137 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:35:12.591 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:35:12.592 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:35:25.232 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:35:25.232 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:40:50.632 [main] WARN  org.example.service.ValidacionService - Validación fallida: fecha/hora en el pasado: 2026-02-12T21:40:50.612862100
+2026-02-12 21:41:18.175 [main] WARN  org.example.service.ValidacionService - Validación fallida: fecha/hora en el pasado: 2026-02-12T21:41:18.146753400
+2026-02-12 21:41:41.814 [main] WARN  org.example.service.ValidacionService - Validación fallida: fecha/hora en el pasado: 2026-02-12T21:41:41.793311
+2026-02-12 21:42:24.888 [main] WARN  org.example.service.ValidacionService - Validación fallida: fecha/hora en el pasado: 2026-02-12T21:42:22.445800700
+2026-02-12 21:43:00.155 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:43:00.155 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:43:00.166 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:43:19.128 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:43:19.128 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:43:19.134 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:43:19.134 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:43:30.132 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:43:30.132 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:43:30.138 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:43:30.138 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:44:29.471 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:44:29.472 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:44:29.487 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:44:29.487 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:45:12.671 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:45:12.672 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:45:12.679 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:45:12.679 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:45:49.267 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:45:49.268 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:45:49.275 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:45:49.275 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:47:29.399 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:47:29.399 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:47:29.402 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:47:29.402 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:47:29.446 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:47:29.447 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:47:29.448 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:47:29.448 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:47:29.467 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:47:29.467 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:47:29.469 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:47:29.470 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:47:29.477 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:47:29.478 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:47:29.481 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:47:29.481 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:47:29.498 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:47:29.498 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-12 21:47:29.509 [main] INFO  org.example.service.ValidacionService - Validando nombre de paciente
+2026-02-12 21:47:29.509 [main] INFO  org.example.service.ValidacionService - Validando el telefono del Paciente
+2026-02-23 20:31:57.101 [main] WARN  org.example.service.ValidacionService - Validación fallida: fecha/hora en el pasado: 2026-02-23T20:31:57.090962700
+2026-02-23 20:32:43.345 [main] WARN  org.example.service.ValidacionService - Validación fallida: fecha/hora en el pasado: 2026-02-23T20:32:43.331958400
+2026-02-23 20:32:48.363 [main] WARN  org.example.service.ValidacionService - Validación fallida: fecha/hora en el pasado: 2026-02-23T20:32:48.343665600
+2026-02-23 20:36:29.440 [main] WARN  org.example.service.ValidacionService - Validación fallida: fecha/hora en el pasado: 2026-02-23T20:36:29.428343300
+2026-02-23 20:37:58.253 [main] WARN  org.example.service.ValidacionService - Validación fallida: fecha/hora en el pasado: 2026-02-23T20:37:58.238749700
