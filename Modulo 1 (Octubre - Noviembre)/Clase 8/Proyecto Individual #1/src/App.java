@@ -46,34 +46,32 @@ public class App {
         var opciones = """
                 --- Sistema de Registro de Estudiantes ---
 
-                1. Registrar datos de un estudiante
-                2. Mostrar datos del estudiante actual
-                3. Calcular promedio de notas
-                4. Mostrar resumen completo del estudiante
-                5. Limpiar datos del estudiante actual
-                0. Salir
+                1. Registrar datos de un estudiante.
+                2. Mostrar datos del estudiante actual.
+                3. Calcular promedio de notas.
+                4. Mostrar resumen completo del estudiante.
+                5. Limpiar datos del estudiante actual.
+                0. Salir.
                 """;
         System.out.println(opciones);
         System.out.print("Seleccione una opción: ");
     }
 
     static void registrarEstudiante() {
-        // Lógica para registrar datos de un estudiante
         if (nombre.equals("N/A")) {
-            leerEstudiante();
+            leerDatosEstudiante();
         } else {
             System.out.println("Ya hay un estudiante registrado. Desea sobreescribir? (s/n): ");
             String respuesta = sc.nextLine();
             if (respuesta.equalsIgnoreCase("s")) {
-                leerEstudiante();
+                leerDatosEstudiante();
             } else {
                 System.out.println("Operación cancelada. No se modificaron los datos.");
             }
         }
-
     }
 
-    static void leerEstudiante() {
+    static void leerDatosEstudiante() {
         System.out.print("Ingrese el nombre del estudiante: ");
         nombre = sc.nextLine();
         System.out.print("Ingrese la primera nota: ");
@@ -87,13 +85,12 @@ public class App {
 
     static boolean esValidaNota(double nota) {
         return nota >= 0 && nota <= 100;
-
     }
 
     static double solicitarNota() {
         double nota;
         do {
-            System.out.print("Ingrese una nota (0-100): ");
+            System.out.print("Ingrese una nota [0-100]: ");
             nota = sc.nextDouble();
             if (!esValidaNota(nota)) {
                 System.out.println("Nota inválida. Debe estar entre 0 y 100.");
@@ -146,5 +143,4 @@ public class App {
         estado = "N/A";
         System.out.println("Datos del estudiante actual han sido limpiados.");
     }
-
 }
