@@ -6,7 +6,7 @@ import jakarta.persistence.Id;
 
 // esta clase es una entidad que representa un producto, se mapea a una tabla en la base de datos
 @Entity
-public class product {
+public class Product {
 
     // crea un valor para el id incremental, es la clave primaria de la tabla
     @Id
@@ -17,10 +17,10 @@ public class product {
     private String description;
     private double price;
 
-    public product() {
+    public Product() {
     }
 
-    public product(long id, String name, String description, double price) {
+    public Product(long id, String name, String description, double price) {
         this.id = id;
         this.name = name;
         this.description = description;
